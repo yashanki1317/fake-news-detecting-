@@ -106,8 +106,9 @@ def manual_testing(news):
     output_label(pred_GB[0]),
     output_label(pred_RF[0])
 ))
-news="NASA Confirms Earth Will Go Completely Dark for 6 Days in November 2025 Due to Solar Storm"
+news = "India's Chandrayaan-2 successfully lands near the Moon's south pole, making India the first country to achieve this feat in that region."
 manual_testing(news)
+
 
 
 
